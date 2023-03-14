@@ -4,7 +4,7 @@
 This action prints "Hello World" to the log or "Hello" + the name of a person to greet. To learn how this action was built, see "[Creating a Docker container action](https://docs.github.com/en/actions/creating-actions/creating-a-docker-container-action)" in the GitHub Docs.
 
 ## Version 
-2.0.2
+2.0.3
 
 ## Inputs
 
